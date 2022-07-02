@@ -8,7 +8,7 @@ export default function Experience({ active }) {
         <div className="card-timeline">
           <div className="card-item" data-year="2021">
             <div className="card-item-title">
-              Full-Stack Developer for <span>Organic</span>
+              Full-Stack Developer at <span>Organic</span>
             </div>
             <div className="card-item-desc">Create headless CMS use WordPress/NextJS for a News organization.</div>
           </div>
@@ -24,7 +24,7 @@ export default function Experience({ active }) {
             </div>
             <div className="card-item-desc">Use PHP to create RESTful API for booking platform.</div>
           </div>
-          <div className="card-item" data-year="2016">
+          <div className="card-item" data-year="2017">
             <div className="card-item-title">
               Backend Developer at <span>Sunbytes</span>
             </div>
